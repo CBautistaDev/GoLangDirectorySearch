@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	//CheckArguments()
+	CheckArguments()
 
 	// First command line argument is the directory to scan
 	dir := os.Args[1]
